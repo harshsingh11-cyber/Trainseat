@@ -2,6 +2,13 @@
 
 Train Booking is a simple React application that allows users to book seats in a train coach. The application follows certain constraints and provides a user-friendly interface for seat selection.
 
+
+1. Live - Project:
+
+   ```shell
+   Hosted -->  [live-project](https://main--warm-melomakarona-ce332e.netlify.app/)
+
+
 ## Features
 
 - Users can reserve up to 7 seats at a time.
